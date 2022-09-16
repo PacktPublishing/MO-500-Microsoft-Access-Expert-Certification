@@ -1,0 +1,4 @@
+Useful Links
+
+Microsoft Support Commentary on Data Types
+https://support.microsoft.com/en-us/office/introduction-to-data-types-and-field-properties-30ad644f-946c-442e-8bd2-be067361987c?ui=en-us&rs=en-us&ad=us

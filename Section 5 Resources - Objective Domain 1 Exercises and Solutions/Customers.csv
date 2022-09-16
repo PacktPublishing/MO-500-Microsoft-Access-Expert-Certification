@@ -1,0 +1,31 @@
+CustID,Company,Address,City,State,ZIP,WorkPhone,FaxNumber,Type,SalesRep,WebPage,ContactLast,ContactFirst,EmailAddress,DirectPhone
+ZL11722,Zino Letti's,798 Ravinia Road, Des Moines,IA,50320,(952) 207-3790,(860) 804-6094,Restaurant,3,http://ZinoLetti-on-Main.com,Austin,Quail,Austin@ZinoLetti.com,(761) 432-2374
+FV41827,Flavorville,222 Dakota Lane, North Grosvenord,CT,6255,(356) 440-2445,(308) 847-5195,Retail,6,http://FlavorvilleCT.com,Duncan,Kamal,dkamal@flavorville.com,(671) 479-1058
+WR42173,Wild Rose,902 Lovers Lane Drive, Kalamazoo,MI,49001,(778) 449-3162,(467) 233-3787,Retail,10,http://www.WildRoseShoppe.com,Williamson,Bert,willbert@wildrose.com,(106) 543-7115
+OW62198,Oilworks,2783 La Salle Lane, Helix,OR,97835,(626) 841-7549,(662) 791-3647,Retail,9,http://www.oilworksstore.com,Reynolds,Signe,rs@att.com,(831) 405-9776
+WJ72349,WJ Pantry,872 Cherry Viaduct, Portland,OR,97213,(690) 787-3396,(306) 190-0154,Retail,9,http://wjpantry.com,Moran,Garrett,mgarrett@spln.com,(601) 721-2813
+BX30550,Bread Express,3362 Ute Loop, Tiffin,OH,44883,(381) 975-6938,(506) 434-4456,Restaurant,5,http://www.BreadExpress.com,Wynn,Ila,wynn@breadexpress.com,(931) 498-3275
+BV44695,Blue Vine,40675 Raymond Curve, Columbus,GA,31901,(318) 606-4389,(563) 231-8594,Retail,1,http:/www.BlueVine/.com,Preston,Azalia,pazalia@bluevine.com,(252) 288-8097
+ID32098,Istria Deli,57 Kimble Street, Harriet,AR,72639,(981) 249-9137,(835) 696-6354,Restaurant,4,http://www.IstriaDeli.com,Aguilar,Angelica,aguilar@deli.com,(283) 397-3954
+MC27801,Moni Cari,205 Cooper Street, Mainesburg,PA,16932,(590) 692-1594,(468) 426-7823,Retail,4,http://www.MoniCari.com,Lynch,Wyatt,wlynch@monicari.com,(516) 952-2113
+PX65302,PantryX,776 Chestnut Pasture Pass, Hague,VA,22469,(839) 431-7573,(980) 913-7089,Retail,7,http://www.PantryX.com,Hinton,Sonia,soniaH@pantryx.com,(545) 906-5904
+QA83482,Quilla,9212 South Hunters Chase Lane, Boca Raton,FL,33433,(175) 451-7162,(565) 314-0693,Retail,6,http://www.Quilla.com,Burke,Amela,Burke@quilla.com,(559) 432-0395
+RL63600,Restaurante Lena,920 Ridgedale Way, Beulah,MO,65436,(606) 860-6176,(357) 898-7607,Restaurant,3,http://www.RestauranteLena.com,Foster,Josiah,josiah@gmlai.com,(857) 115-4761
+DF39964,Delish Food,809 Weathersfield Ctr Park, Madisonville,OH,45227,(819) 361-4113,(147) 728-4146,Restaurant,8,http:/www.DelishFoodInc.com,Wiley,Cheryl,wcheryl@delishf.com,(346) 281-6625
+SM08802,S'more,698 Allendale Stravenue, Oakdale,NY,11769,(953) 494-0835,(502) 426-4310,Restaurant,9,http://www.Smore.com,Ellison,Meghan,elli@smore.com,(518) 187-6830
+NH18879,Nouvo Home,91 West Cutter Parkway, Roy,MT,59471,(434) 500-0075,(866) 286-4844,Restaurant,6,http://NouvoHome.com,Mack,Olga,mack@Nuovo.com,(911) 553-8962
+HN70067,Hearth n' Health,201 Buckaroo Road, Fulton,OH,43321,(987) 529-8168,(595) 833-6342,Retail,4,http://www.HearthnHealth.com,Burnett,Nasim,NBurnett@hnh.com,(826) 356-2440
+AU86526,Avulon,548 Hominy Drive, Millen,GA,30442,(969) 116-3050,(353) 383-6793,Retail,1,http:/www.Avulon.com,Whitfield,Demetrius,whitD@Avulon.com,(862) 498-2951
+UI62388,Uni,583 Roosevelt Lane, Evergreen Park,IL,60642,(517) 316-7182,(209) 189-2587,Retail,2,http://www.Uni.com,Gay,Alfonso,ag@uni.com,(270) 844-3950
+SZ95205,Snazzy Snacks,552 Carmelita Freeway, Brodhead,KY,40409,(422) 736-7379,(512) 836-9944,Retail,10,http://SnazzySnacks.com,Banks,Fallon,FBanks@snazzy.com,(131) 211-3536
+HB00042,Home Baked,9767 Milford Burg, Ryan,IA,52330,(244) 746-2922,(395) 790-3162,Restaurant,7,http://www.Home Baked.com,Sears,Allegra,asears@homeBaked.com,(361) 953-1685
+EP24854,Epicurian,499 Tabernacle Flat, North Concord,VT,5858,(794) 240-8504,(380) 328-2293,Restaurant,10,http://www.Epicurian.com,Vincent,Talon,talon@epicurian.com,(374) 809-9783
+LV84203,Leticia Vito,7522 Thistle Hill Street, Stow,MA,1775,(774) 490-1999,(175) 436-6977,Retail,7,http://LeticiaVito.com,Gamble,Pandora,Pandora@lvit.com,(829) 874-9423
+KA13911,Karamel Amor,9422 Riverbend Highway, Middlebrook,VA,24459,(503) 925-3150,(784) 249-4786,Restaurant,1,http://www/karamelamor.com,Giles,Edward,giles@gtt.com,(439) 985-6360
+NP00678,Nina P,64 Andrews Freeway, Haverhill,MA,1832,(646) 949-0498,(429) 799-1551,Retail,8,http://www.NinaP.com,Elliott,Jade,missjade@ninap.com,(881) 954-7083
+IB72915,Ibila,6925 Kensington Burg, Palatine Bridge,NY,13428,(885) 356-3896,(844) 683-3877,Restaurant,1,http://www.Ibila.com,Kelley,Sierra,sierra@ibila.com,(759) 299-8773
+AK29004,All Kinds of Taste,114 Sheridan Branch, Sandy,UT,84093,(247) 427-5844,(561) 848-4258,Restaurant,10,http://www.AllKindsofTaste.com,Meyer,Daphne,daphne@allkindsoftaste.com,(741) 721-7364
+FI76723,Figori,581 Low Turnpike, Ropesville,TX,79358,(837) 926-4297,(137) 141-2276,Restaurant,7,http://FigoriFood.com,Mckinney,Sacha,smckinneyFigoriFood.com,(551) 610-4042
+WK98192,Winter Kitchen,290 Carolyn Drive, Cle Elum,WA,98922,(256) 759-5281,(725) 520-0369,Restaurant,8,http://www.WinterKitchen.com,Cannon,Mariam,sales@www.WinterKitchen.com,(421) 118-6343
+GR20893,Greens Garden,394 Mesa Palms Avenue, Glen Campbell,PA,15742,(833) 488-4939,(890) 173-3742,Retail,1,http://greensgardenPA.com,Kelley,Jescie,Jescie@greensgardenPA.com,(695) 544-3377
+NC74651,Niche Cuisine,41 Peavine Curve, Woodston,KS,67675,(442) 760-4909,(272) 706-5961,Retail,7,http://NicheCuisine2.com,Grimes,Zena,zena@NicheCuisine2.com,(616) 339-4737
